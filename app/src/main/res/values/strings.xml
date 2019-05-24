@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Perkiraan Cuaca</string>
+    <string-array name="nama_kota">
+        <item>Banda Aceh</item>
+        <item>Denpasar</item>
+        <item>Serang</item>
+        <item>Bengkulu</item>
+        <item>Yogyakarta</item>
+        <item>Jakarta Pusat</item>
+    </string-array>
+</resources>
